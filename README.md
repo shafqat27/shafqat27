@@ -1,8 +1,10 @@
 <p align="center">
-    <a href="https://shafqat27-portfolio.com/contact.html" target="_blank">
-        <img src="https://github.com/shafqat27/README.md/assets/174032658/9ff7db7d-ff08-4848-8bc3-241d497aa42b" alt="Link to portfolio">
-    </a>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Shafqat+Raza;I'm+commerce+student)](https://git.io/typing-svg)
+
+    
 </p>
+
 <!--ABOUT-->
 
 
