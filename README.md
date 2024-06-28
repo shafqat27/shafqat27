@@ -29,13 +29,13 @@ I specialize in creating visually stunning designs and executing effective digit
 <!--SOCIAL ACCOUNTS-->
 <h1 align="center">Accounts</h1>
 <p align="center">
-  <a href="https://twitter.com/shafqat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafqat27" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shafqat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafqat27" height="30" width="40" /></a>
-  <a href="https://facebook.com/shafqat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafqat27" height="30" width="40" /></a>
-  <a href="https://instagram.com/shafqat_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafqat_27" height="30" width="40" /></a>
+<!--   <a href="https://twitter.com/shafqat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafqat27" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/shafqat-raza-ab6576151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafqat27" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/shafqat.raza.3975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafqat27" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/shafqat_raza974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafqat_27" height="30" width="40" /></a>
 </p>
 <p align="center">
-    <a href="https://www.fiverr.com/shafqat27" target="_blank">
+    <a href="https://www.fiverr.com/digisolution24" target="_blank">
         <img src="https://img.shields.io/badge/Fiverr-shafqat27-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge">
     </a>
 </p>
